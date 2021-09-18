@@ -1,0 +1,14 @@
+@import url(https://fonts.google.com/share?selection.family=Oxygen:wght@300);
+body {
+  background-color: #202020;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.mission-content {
+  margin-top: 50px;
+  color: #fff;
+}
+
+.catalogue-card {
+  cursor: pointer;
+}

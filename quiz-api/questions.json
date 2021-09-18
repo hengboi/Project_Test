@@ -1,0 +1,35 @@
+
+[
+   {
+      "number":1,
+      "main_question":{
+         "ques":"What is IBXVEXIVVIWXVMEP(abc4)",
+         "ans":"Extraterrestrial"
+      },
+      "sub_questions":[
+         {
+            "number":1,
+            "ques":"What is the effect that questions the whereabouts of extraterrestrial? ",
+            "ans":"Fermi Paradox"
+         },
+         {
+            "number":2,
+            "ques":"The incident that was the first to use the phrase “Flying Saucer”",
+            "ans":"Roswell Incident"
+         },
+         {
+            "number":3,
+            "ques":"What is the message that could be arranged in a grid 73 rows by 23 columns to form a pictograph that represents facts about mathematics, human DNA, planet earth, and humans",
+            "ans":"The Arecibo message"
+         }
+      ],
+      "digital_question":{
+         "ques":"Digital key that was in the NFT art",
+         "ans":"zf@#%rLY85Bu?+Ch4z"
+      },
+      "reward":{
+         "url":"https://res.cloudinary.com/dmwvfbozf/image/upload/v1631866522/NFT1_vcdqdn.jpg"
+      }
+   }
+
+]
